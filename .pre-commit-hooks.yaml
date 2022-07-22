@@ -1,0 +1,5 @@
+- id: 'php_style_check'
+  name: 'php_style_check'
+  pass_filenames: false
+  entry: ./hooks/php-style/entry
+  language: python
